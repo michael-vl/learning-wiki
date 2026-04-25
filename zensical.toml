@@ -2,9 +2,7 @@
 site_name = "Learning Wiki"
 site_description = "A personal wiki — Blender, Unity, Godot, and adjacent."
 site_author = "Michael"
-# Update site_url after you've created the GitHub repo and enabled Pages,
-# e.g. site_url = "https://<your-github-username>.github.io/<repo-name>/"
-# site_url = ""
+site_url = "https://michael-vl.github.io/learning-wiki/"
 
 copyright = """
 Copyright &copy; 2026 Michael
