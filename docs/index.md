@@ -1,8 +1,8 @@
 # Learning Wiki
 
-A personal wiki covering creative and game-dev software. Each topic is organized into five sections:
+A personal wiki covering creative software, game engines, and other ongoing learning. Each topic is organized into five sections:
 
-- **usage** — interface, core concepts, how to actually drive the software day-to-day
+- **usage** — interface, core concepts, how to actually drive the software/discipline day-to-day
 - **tutorial** — a beginner → advanced path with concrete steps
 - **examples** — worked examples and recipes
 - **best-practices** — conventions, pitfalls, what professionals do differently
@@ -18,6 +18,15 @@ A personal wiki covering creative and game-dev software. Each topic is organized
 - [Unity — Beginner to Advanced](./unity/)
 - [Godot — Beginner to Advanced](./godot/)
 
+### Trading & Investing
+- [Stock Trading & Day Trading](./stock-trading/) — including a realistic full-time-worker plan
+
+### Building & Architecture
+- [Designing & Building Your Own Home](./home-building/) — including a Mechanical Engineer's plan outline
+
+### Music
+- [Songwriting, Melody & Music Theory](./music/) — for an intermediate pianist learning theory and composition
+
 ## How to use this wiki
 
 - Read top-to-bottom per topic, or jump to the section you need.
@@ -27,7 +36,7 @@ A personal wiki covering creative and game-dev software. Each topic is organized
 
 ## Format
 
-Plain Markdown. Works in any editor, on any OS, forever. If you later want a rendered site, this structure drops straight into [VitePress](https://vitepress.dev), [Starlight](https://starlight.astro.build), or [Quartz](https://quartz.jzhao.xyz) with no restructuring.
+Plain Markdown rendered with [Zensical](https://zensical.org). The source lives in `docs/`; the site builds and deploys automatically on every push to GitHub. Readable in any text editor or any browser.
 
 ## Conventions used in this wiki
 
@@ -35,4 +44,7 @@ Plain Markdown. Works in any editor, on any OS, forever. If you later want a ren
 - Blender conventions assume **4.x** (EEVEE Next, modern Geometry Nodes).
 - Unity conventions assume **Unity 6 LTS** (URP default, new Input System, UI Toolkit).
 - Godot conventions assume **Godot 4.3+** (Forward+ renderer, GDScript 2.0).
-- Code blocks use the target language tag (`gdscript`, `csharp`, `glsl`, `python`).
+- Stock-trading content is US-market focused; tax sections are US-specific frameworks, not advice.
+- Home-building content uses US codes (IRC / IECC / NEC) as reference; verify your local AHJ.
+- Music theory examples use C major as the default reference key; transpose for practice.
+- Code blocks use the target language tag (`gdscript`, `csharp`, `glsl`, `python`, `osl`, `gdshader`).

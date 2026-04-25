@@ -43,6 +43,30 @@ nav = [
     { "Best Practices" = "godot/best-practices.md" },
     { "Learning"       = "godot/learning.md" },
   ] },
+  { "Stock Trading" = [
+    { "Overview"       = "stock-trading/index.md" },
+    { "Usage"          = "stock-trading/usage.md" },
+    { "Tutorial"       = "stock-trading/tutorial.md" },
+    { "Examples"       = "stock-trading/examples.md" },
+    { "Best Practices" = "stock-trading/best-practices.md" },
+    { "Learning"       = "stock-trading/learning.md" },
+  ] },
+  { "Home Building" = [
+    { "Overview"       = "home-building/index.md" },
+    { "Usage"          = "home-building/usage.md" },
+    { "Tutorial"       = "home-building/tutorial.md" },
+    { "Examples"       = "home-building/examples.md" },
+    { "Best Practices" = "home-building/best-practices.md" },
+    { "Learning"       = "home-building/learning.md" },
+  ] },
+  { "Music" = [
+    { "Overview"       = "music/index.md" },
+    { "Usage"          = "music/usage.md" },
+    { "Tutorial"       = "music/tutorial.md" },
+    { "Examples"       = "music/examples.md" },
+    { "Best Practices" = "music/best-practices.md" },
+    { "Learning"       = "music/learning.md" },
+  ] },
 ]
 
 [project.theme]
