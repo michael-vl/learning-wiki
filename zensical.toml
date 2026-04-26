@@ -55,6 +55,16 @@ nav = [
       { "Best Practices"    = "godot/best-practices.md" },
       { "Learning"          = "godot/learning.md" },
     ] },
+    { "FL Studio" = [
+      { "Overview"          = "fl-studio/index.md" },
+      { "Quickstart"        = "fl-studio/quickstart.md" },
+      { "Usage"             = "fl-studio/usage.md" },
+      { "Tutorial"          = "fl-studio/tutorial.md" },
+      { "Practice Schedule" = "fl-studio/practice-schedule.md" },
+      { "Examples"          = "fl-studio/examples.md" },
+      { "Best Practices"    = "fl-studio/best-practices.md" },
+      { "Learning"          = "fl-studio/learning.md" },
+    ] },
   ] },
   { "Disciplines" = [
     { "Stock Trading" = [

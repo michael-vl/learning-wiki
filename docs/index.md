@@ -18,11 +18,12 @@ Each topic has the same shape:
 - **Best Practices** — conventions, pitfalls, professional habits.
 - **Learning** — curated books, channels, courses.
 
-### Software (3D / Game Engines)
+### Software (3D / Game Engines / Audio)
 - [Blender — Shaders & Node Programming](./blender-shaders-and-nodes/) · [Quickstart](./blender-shaders-and-nodes/quickstart.md) · [Schedule](./blender-shaders-and-nodes/practice-schedule.md)
 - [Blender — Beginner to Advanced (with Topology)](./blender/) · [Quickstart](./blender/quickstart.md) · [Schedule](./blender/practice-schedule.md)
 - [Unity — Beginner to Advanced](./unity/) · [Quickstart](./unity/quickstart.md) · [Schedule](./unity/practice-schedule.md)
 - [Godot — Beginner to Advanced](./godot/) · [Quickstart](./godot/quickstart.md) · [Schedule](./godot/practice-schedule.md)
+- [FL Studio — Beginner to Advanced](./fl-studio/) · [Quickstart](./fl-studio/quickstart.md) · [Schedule](./fl-studio/practice-schedule.md)
 
 ### Disciplines (Trading / Building / Music)
 - [Stock Trading & Day Trading](./stock-trading/) · [Quickstart](./stock-trading/quickstart.md) · [Schedule](./stock-trading/practice-schedule.md)

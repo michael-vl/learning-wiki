@@ -23,7 +23,7 @@ For recording, sequencing MIDI, mixing, producing:
 | **Logic Pro**    | $200 (Mac only, one-time)| Songwriters, recording                 | Best value on Mac; great built-in instruments |
 | **Ableton Live** | Subscription / paid tiers| Electronic, beat-driven, performance   | Session view is unique; great for sketching |
 | **Reaper**       | $60 personal             | Anything; very flexible                 | Cheap, deep, customizable; less polished UX |
-| **FL Studio**    | One-time, free updates   | Beat-making, EDM                        | Pattern-based workflow                  |
+| **FL Studio**    | One-time, free updates   | Beat-making, EDM, pattern-based songwriting | See dedicated [FL Studio topic](../fl-studio/) for full coverage |
 | **Pro Tools**    | Subscription             | Studio recording, post-production       | Industry standard for tracking; expensive |
 | **Cubase**       | Paid, perpetual          | Composers, scoring                      | Strong notation + audio integration     |
 | **Studio One**   | Paid tiers, free tier    | All-purpose                             | Clean UX; good defaults                 |
