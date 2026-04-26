@@ -1,5 +1,11 @@
 # Blender — Beginner to Advanced
 
+!!! tip "If you only do one thing"
+    Daily 20 minutes beats weekly 2-hour marathons. The brain consolidates Blender shortcuts and modal navigation in sleep cycles between practices. Use the [Practice Schedule](./practice-schedule.md) checkboxes; skip days without guilt.
+
+!!! warning "Read [Topology](./topology.md) before Tutorial Level 3"
+    The single most important skill most learners skip. Bad topology compounds; fixing it later is much more expensive than learning it now.
+
 A full-stack guide to Blender as a 3D DCC (digital content creation) application. Covers modeling, sculpting, UV, texturing, rigging, animation, rendering, and — because it's the single most important skill most people skip — **topology**.
 
 ## Scope

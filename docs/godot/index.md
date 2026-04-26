@@ -1,5 +1,11 @@
 # Godot — Beginner to Advanced
 
+!!! tip "If you only do one thing"
+    Run scenes in isolation with **F6** instead of always launching the whole project with F5. Catches a class of bugs immediately and tightens the iteration loop. Each scene should work standalone — that's the discipline that makes Godot projects scale.
+
+!!! note "GDScript by default; C# only with reason"
+    GDScript has tighter editor integration and faster iteration. Pick C# only if you're coming from Unity, need .NET libraries, or have a specific perf concern.
+
 A guide to **Godot 4.3+**: an open-source, MIT-licensed game engine with a clean node/scene model, a first-class scripting language (GDScript), and full C# support via .NET.
 
 ## Scope

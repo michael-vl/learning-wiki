@@ -1,5 +1,8 @@
 # Stock Trading & Day Trading
 
+!!! danger "If you only do one thing"
+    Open a brokerage, max your tax-advantaged accounts (401k → Roth IRA → 401k → HSA), and auto-invest in low-cost index funds (VTI/VXUS/BND or your broker's equivalent). For the median reader, that beats every active strategy you'll consider in this wiki, after fees and taxes, over any horizon longer than 5 years. **Do this before reading further.** See the [Quickstart](./quickstart.md).
+
 A guide to participating in equity markets — from passive long-term investing through swing trading to active day trading. Covers what each style actually is, what edges (if any) exist, what risk management means in practice, and what's realistic for someone with a full-time job.
 
 ## Up-front honesty

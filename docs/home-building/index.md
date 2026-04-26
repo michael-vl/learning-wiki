@@ -1,5 +1,11 @@
 # Designing & Building Your Own Home
 
+!!! warning "Cost figures in this wiki"
+    Hard-cost ranges throughout (e.g. $200–$600/sf) are 2026 approximations and vary massively by region, season, and material market. Local subcontractor bids are the only authoritative numbers; refresh yearly.
+
+!!! tip "If you only do one thing before committing money"
+    Survey + geotech on the site **before** purchase. ~$5–10k that prevents seven-figure surprises. Skip nothing else from the [Quickstart](./quickstart.md) — but if you only do one thing, do this.
+
 Designing and building a home as an owner-builder. Covers software, building codes and permits, contracting, the trades, and a tailored plan for someone with mechanical-engineering background.
 
 ## Scope

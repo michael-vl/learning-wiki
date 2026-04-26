@@ -1,5 +1,11 @@
 # Music — Songwriting, Melody, Theory
 
+!!! tip "If you only do one thing"
+    Five minutes daily of interval drills on [Tenuto / musictheory.net](https://www.musictheory.net) for 8 weeks rewires your ear. After two months you'll start *hearing* progressions when you listen to music — knowing they're I–V–vi–IV without thinking. That single habit changes how you write more than any other.
+
+!!! note "Pick a stylistic direction early"
+    Pop songwriting, jazz piano, and classical-leaning composition share Levels 1–3 of the [tutorial](./tutorial.md), but diverge after that. Jazz piano needs **The Jazz Theory Book** (Mark Levine) starting around Week 5; classical comp needs counterpoint and four-part writing; pop needs the form/lyrics/hook tools in Level 4. Decide which is the goal before Week 5.
+
 A guide to music theory, songwriting, and melody/chord composition for an **intermediate pianist** who knows little theory and reads music slowly. The path: build theory grounded in keyboard intuition, get comfortable with chord progressions and song structure, then write your own.
 
 ## Scope

@@ -1,5 +1,11 @@
 # Blender — Shaders & Node Programming
 
+!!! tip "If you only do one thing"
+    Use the **viewer node** (`Ctrl+Shift+click` on any node) constantly. It's the print-statement of Blender's node editors and the single most useful debugging tool. The same shortcut works in Shader Editor, Geometry Nodes, and Compositor.
+
+!!! warning "Color space"
+    Albedo/color textures = **sRGB**; roughness, normal, displacement, masks = **Non-Color**. The single most common beginner bug in PBR shading. Set every texture's color space deliberately.
+
 Node-based material authoring and procedural content in Blender. Covers the **Shader Editor**, **Geometry Nodes**, and **Compositor** — all three share the same node paradigm but operate on different data.
 
 ## Scope

@@ -1,5 +1,11 @@
 # Unity — Beginner to Advanced
 
+!!! tip "If you only do one thing"
+    **Finish small games.** Five small finished games > one ambitious unfinished game. Pong, Breakout, a 2D platformer with one level, a small puzzle game — each forces a complete loop (design → code → polish → build → ship). The shipping habit is the curriculum.
+
+!!! warning "Don't start with DOTS or multiplayer"
+    Both are advanced topics that will confuse before they help. Ship classic-MonoBehaviour single-player games first.
+
 A guide to **Unity 6 LTS** and current Unity workflows. Unity is a general-purpose game engine and realtime app platform with broad platform reach, a C# scripting model, and a deep but evolving ecosystem.
 
 ## Scope
