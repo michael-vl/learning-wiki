@@ -65,6 +65,16 @@ nav = [
       { "Best Practices"    = "fl-studio/best-practices.md" },
       { "Learning"          = "fl-studio/learning.md" },
     ] },
+    { "KiCad" = [
+      { "Overview"          = "kicad/index.md" },
+      { "Quickstart"        = "kicad/quickstart.md" },
+      { "Usage"             = "kicad/usage.md" },
+      { "Tutorial"          = "kicad/tutorial.md" },
+      { "Practice Schedule" = "kicad/practice-schedule.md" },
+      { "Examples"          = "kicad/examples.md" },
+      { "Best Practices"    = "kicad/best-practices.md" },
+      { "Learning"          = "kicad/learning.md" },
+    ] },
   ] },
   { "Disciplines" = [
     { "Stock Trading" = [
