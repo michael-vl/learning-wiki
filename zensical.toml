@@ -107,6 +107,16 @@ nav = [
       { "Best Practices"    = "music/best-practices.md" },
       { "Learning"          = "music/learning.md" },
     ] },
+    { "Web Development" = [
+      { "Overview"          = "web-development/index.md" },
+      { "Quickstart"        = "web-development/quickstart.md" },
+      { "Usage"             = "web-development/usage.md" },
+      { "Tutorial"          = "web-development/tutorial.md" },
+      { "Practice Schedule" = "web-development/practice-schedule.md" },
+      { "Examples"          = "web-development/examples.md" },
+      { "Best Practices"    = "web-development/best-practices.md" },
+      { "Learning"          = "web-development/learning.md" },
+    ] },
   ] },
 ]
 

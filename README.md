@@ -9,6 +9,7 @@ A personal wiki on Blender, Unity, and Godot, built with [Zensical](https://zens
 - **Unity — Beginner to Advanced** — Unity 6 LTS, URP, new Input System, ScriptableObjects.
 - **Godot — Beginner to Advanced** — Godot 4.x, GDScript 2.0, signals, custom resources.
 - **KiCad — Beginner to Advanced** — schematic capture, PCB layout, custom libraries, fabrication outputs.
+- **Web Development — Beginner to Advanced** — the platform, TypeScript, React, full-stack, deployment.
 
 The actual wiki content lives in [`docs/`](./docs/). Browse it on GitHub or visit the deployed site (link below once Pages is enabled).
 https://michael-vl.github.io/learning-wiki/
